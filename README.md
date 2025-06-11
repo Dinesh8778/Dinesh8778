@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Dinesh Kumar!</h1>
 
-- 💻 **IT Student** | 🎓 Pursuing 2-year B.Tech in Information Technology  
+- 💻 **IT Student** | 🎓 Pursuing 3-year B.Tech in Information Technology  
 - 🚀 **Intern at Infosys** | **Python Web Development (Django)**
 - 🌱 Passionate about web development and learning new technologies
 - ### 🛠 Skills  
